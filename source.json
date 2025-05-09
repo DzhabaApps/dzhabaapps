@@ -1,7 +1,27 @@
 {
-  "name": "dzhabaapps",
+  "name": "Jabba Store",
   "subtitle": "Модифицированные приложения",
   "description": "Лучшие взломанные и полезные программы для iPhone",
-  "iconURL": "https://dzhabaapps.github.io/icons/logo.png",
-  "apps": []
+  "iconURL": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a3d1977962c5848a0d3c3571c3f3b6a4.png?raw=true",
+  "apps": [
+    {
+      "name": "PureStatus Pro",
+      "bundleIdentifier": "com.purestatus.pro",
+      "developerName": "Jabba Apps",
+      "subtitle": "Сжимает видео для статуса WhatsApp без потери качества",
+      "localizedDescription": "PureStatus Pro позволяет сжимать видео для WhatsApp-статуса, сохраняя высокое качество и уменьшая размер. Быстро, удобно, без потерь.",
+      "iconURL": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a3d1977962c5848a0d3c3571c3f3b6a4.png?raw=true",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2025-05-10",
+          "localizedDescription": "Первая версия приложения",
+          "downloadURL": "https://github.com/DzhabaApps/dzhabaapps/releases/download/v1.0/PureStatuspro.ipa",
+          "size": 37000000,
+          "minOSVersion": "12.0"
+        }
+      ]
+    }
+  ]
 }
