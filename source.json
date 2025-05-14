@@ -23,6 +23,19 @@
       "localizedDescription": "Сжимает видео для WhatsApp-статуса без потери качества",
       "icon": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a3d1977962c5848a0d3c3571c3f3b6a4.png?raw=true",
       "iconURL": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a3d1977962c5848a0d3c3571c3f3b6a4.png?raw=true"
+    },
+    {
+      "name": "PureStatus Pro",
+      "version": "1.0.0",
+      "versionDate": "2025-05-14",
+      "fullDate": "20250514130345",
+      "size": 38000000,
+      "down": "https://github.com/DzhabaApps/dzhabaapps/releases/download/v1.0/PureStatuspro.ipa",
+      "downloadURL": "https://github.com/DzhabaApps/dzhabaapps/releases/download/v1.0/PureStatuspro.ipa",
+      "developerName": "Dzhaba Apps",
+      "localizedDescription": "Сжимает видео для WhatsApp-статуса без потери качества",
+      "icon": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a3d1977962c5848a0d3c3571c3f3b6a4.png?raw=true",
+      "iconURL": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a3d1977962c5848a0d3c3571c3f3b6a4.png?raw=true"
     }
   ]
 }
