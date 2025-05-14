@@ -4,10 +4,13 @@
   "sourceURL": "https://dzhabaapps.github.io/dzhabaapps/source.json",
   "iconURL": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a3d1977962c5848a0d3c3571c3f3b6a4.png?raw=true",
   "sourceicon": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a3d1977962c5848a0d3c3571c3f3b6a4.png?raw=true",
-  "sourceDescription": "🔍 ;\n...",
-  "sourceLinkTitle": "Инструкция",
-  "sourceLinkUrl": "https://t.me/raduevds",
+  "website": "https://t.me/raduevds",
   "subtitle": "Модифицированные приложения от Jabba",
+  "sourceDescription": "🔍 Введите хэштег в поиск, чтобы найти категории:\n\n#Social – Соцсети\n#Video – Видео и фильмы\n#Music – Музыка\n#VPN – Сети и приватность\n#Games – Игры\n#Office – Заметки и календари\n#Other – Другое\n\n\"Скачать\" → \"Установить\" → \"Подписать\" → \"Установить\"",
+  "buybutton": {
+    "text": "Инструкция",
+    "url": "https://t.me/raduevds"
+  },
   "META": {
     "repoName": "Dzhaba Store",
     "repoIcon": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a3d1977962c5848a0d3c3571c3f3b6a4.png?raw=true"
@@ -19,11 +22,9 @@
       "versionDate": "2025-05-14",
       "fullDate": "20250514130345",
       "size": 38000000,
-      "down": "https://github.com/DzhabaApps/dzhabaapps/releases/download/v1.0/PureStatuspro.ipa",
       "downloadURL": "https://github.com/DzhabaApps/dzhabaapps/releases/download/v1.0/PureStatuspro.ipa",
       "developerName": "Dzhaba Apps",
       "localizedDescription": "Сжимает видео для WhatsApp-статуса без потери качества",
-      "icon": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a3d1977962c5848a0d3c3571c3f3b6a4.png?raw=true",
       "iconURL": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a3d1977962c5848a0d3c3571c3f3b6a4.png?raw=true"
     }
   ]
