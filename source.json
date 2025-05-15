@@ -62,6 +62,16 @@
     {
       "appType": "SELF_SIGN",
       "appCateIndex": 0,
+      "appUpdateTime": "2025-05-16T:00:28+0300",
+      "appName": "YouTube Plus",
+      "appVersion": "20.18.5 | 122.2MB |",
+      "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/1caa967e175755d81250880bccecdb22.png?raw=true",
+      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/Youtube_plus_2_v20.18.5/YouTube.Plus_20.18.5.ipa",
+      "appDescription": "Модификация YouTube\n\n✔️Работает в фоновом режиме\n✔️Пропуск рекламы\nСкачивание видео\nИ многое другое..."
+    },
+    {
+      "appType": "SELF_SIGN",
+      "appCateIndex": 0,
       "appUpdateTime": "2025-05-15T22:00:00+0800",
       "appName": "Hd Rezka",
       "appVersion": "1.5.2 | 4.3MB |",
