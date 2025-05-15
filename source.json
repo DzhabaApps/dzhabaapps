@@ -6,7 +6,7 @@
   "sourceLinkTitle": "Инструкция",
   "sourceLinkUrl": "https://t.me/raduevds",
   "sourceImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/IMG_0787.jpeg?raw=true",
-  "sourceUpdateTime": "2025-05-14T15:00:00+0800",
+  "sourceUpdateTime": "2025-05-15T22:00:00+0300",
   "sourceDescription": "#Social - Соц. сети | #Games - Игры | #VPN - ВПН и инструменты | #Video - Видео и редакторы | #Music - Музыка и плееры",
   "appRepositories": [
     {
@@ -68,6 +68,16 @@
       "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/FB748606-E771-4EB6-B0B5-4AE9708E04E9.jpeg?raw=true",
       "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/Hdzezka_1.5.2/HDRezka.ipa",
       "appDescription": "Приложение для просмотра фильмов и сериалов\n\nБез рекламы"
+    },
+    {
+      "appType": "SELF_SIGN",
+      "appCateIndex": 0,
+      "appUpdateTime": "2025-05-15T22:00:00+0300",
+      "appName": "Instagram Plus",
+      "appVersion": "376.1.0 | 212.1MB",
+      "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/90c5cf3012750a7b4e6ad1de3b71868f.png?raw=true",
+      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/Instagram_plus_regram_376.1.0/Instagram.+_376.1.0.ipa",
+      "appDescription": "❗️Инструкция по установке и настройке находится в правом верхнем углу — кнопка 'Инструкция'❗️\n\nЧтобы разблокировать все настройки модификации, перезапустите приложение 2 раза"
     }
   ]
 }
