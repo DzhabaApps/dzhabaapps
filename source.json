@@ -58,6 +58,16 @@
       "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/237DF648-9468-4607-A151-EC02C37DEBF3.jpeg?raw=true",
       "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/Telegram_plus_11.9/Telegram.+_11.9.ipa",
       "appDescription": "Обычный Телеграм только с ништяками\n\n❗️Чтобы открыть настройки модификации 5 раз нажмите на вкладу чаты"
+    },
+    {
+      "appType": "SELF_SIGN",
+      "appCateIndex": 0,
+      "appUpdateTime": "2025-05-15T22:00:00+0800",
+      "appName": "Hd Rezka",
+      "appVersion": "1.5.2 | 4.3MB",
+      "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/FB748606-E771-4EB6-B0B5-4AE9708E04E9.jpeg?raw=true",
+      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/Hdzezka_1.5.2/HDRezka.ipa",
+      "appDescription": "Приложение для просмотра фильмов и сериалов\n\nБез рекламы"
     }
   ]
 }
