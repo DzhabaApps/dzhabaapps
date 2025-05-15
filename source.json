@@ -18,16 +18,6 @@
       "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a3d1977962c5848a0d3c3571c3f3b6a4.png?raw=true",
       "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/v1.0/PureStatuspro.ipa",
       "appDescription": "Сжимает видео для WhatsApp-статуса без потери качества."
-    },
-    {
-      "appType": "SELF_SIGN",
-      "appCateIndex": 0,
-      "appUpdateTime": "2025-05-14T13:00:00+0800",
-      "appName": "PureStatus Pro",
-      "appVersion": "1.0.0",
-      "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a3d1977962c5848a0d3c3571c3f3b6a4.png?raw=true",
-      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/v1.0/PureStatuspro.ipa",
-      "appDescription": "Сжимает видео для WhatsApp-статуса без потери качества."
     }
   ]
 }
