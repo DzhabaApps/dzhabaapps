@@ -78,6 +78,16 @@
       "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/90c5cf3012750a7b4e6ad1de3b71868f.png?raw=true",
       "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/Instagram_plus_regram_376.1.0/Instagram.+_376.1.0.ipa",
       "appDescription": "❗️Инструкция по установке и настройке находится в правом верхнем углу — кнопка 'Инструкция'❗️\n\nЧтобы разблокировать все настройки модификации, перезапустите приложение 2 раза"
+    },
+    {
+      "appType": "SELF_SIGN",
+      "appCateIndex": 0,
+      "appUpdateTime": "2025-05-15T23:00:00+0300",
+      "appName": "PureStatus Pro",
+      "appVersion": "37MB",
+      "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/049B198A-A381-4D49-BB98-FEBF8CCB8CD2.jpeg?raw=true",
+      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/v1.0/PureStatuspro.ipa",
+      "appDescription": "Разблокирована премиум версия"
     }
   ]
 }
