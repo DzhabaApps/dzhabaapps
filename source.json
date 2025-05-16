@@ -98,6 +98,16 @@
       "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/049B198A-A381-4D49-BB98-FEBF8CCB8CD2.jpeg?raw=true",
       "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/v1.0/PureStatuspro.ipa",
       "appDescription": "Разблокирована премиум версия"
+    },
+    {
+      "appType": "SELF_SIGN",
+      "appCateIndex": 0,
+      "appUpdateTime": "2025-05-16T11:00:00+0300",
+      "appName": "РоссельхозБанк",
+      "appVersion": "22.09 | 27,2MB |",
+      "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/FAAABAD6-C77F-44DA-9885-09EBE280DC08.jpeg?raw=true",
+      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/Rshb_22.09/_22.09.0_1747341710.ipa",
+      "appDescription": "Недоступно в AppStore"
     }
   ]
 }
