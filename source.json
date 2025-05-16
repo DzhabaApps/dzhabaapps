@@ -72,6 +72,16 @@
     {
       "appType": "SELF_SIGN",
       "appCateIndex": 0,
+      "appUpdateTime": "2025-05-16T19:00:00+0300",
+      "appName": "Rutube",
+      "appVersion": "46.5 | 41.2MB |",
+      "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/aba3cfae2b161ec2d3ec0b9ca49a9291.png?raw=true",
+      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/Rutube_v46.5/RUTUBE_46.5.ipa",
+      "appDescription": "Оригинальное приложение недоступное в App Store"
+    },
+    {
+      "appType": "SELF_SIGN",
+      "appCateIndex": 0,
       "appUpdateTime": "2025-05-16T15:00:00+0300",
       "appName": "TikTok +",
       "appVersion": "39.8.0 | 292,9MB | ",
