@@ -72,6 +72,16 @@
     {
       "appType": "SELF_SIGN",
       "appCateIndex": 0,
+      "appUpdateTime": "2025-05-16T15:00:00+0300",
+      "appName": "TikTok +",
+      "appVersion": "39.8.0 | 292,9MB | ",
+      "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/ed23c16364db2c831b95a88ba0b92f17.png?raw=true",
+      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/TikTok_v39.8.0/TikTok.+_v39.8.0.ipa",
+      "appDescription": "❗️Инструкция по установке и настройке находится в правом верхнем углу — кнопка 'Инструкция'❗️\n\n"
+    },
+    {
+      "appType": "SELF_SIGN",
+      "appCateIndex": 0,
       "appUpdateTime": "2025-05-15T22:00:00+0800",
       "appName": "Hd Rezka",
       "appVersion": "1.5.2 | 4.3MB |",
