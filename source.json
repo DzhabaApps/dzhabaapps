@@ -6,7 +6,7 @@
   "sourceLinkTitle": "Инструкция",
   "sourceLinkUrl": "https://t.me/raduevds",
   "sourceImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/IMG_0787.jpeg?raw=true",
-  "sourceUpdateTime": "2025-05-15T22:00:00+0300",
+  "sourceUpdateTime": "2025-05-16T14:47:00+0300",
   "sourceDescription": "#Social - Соц. сети | #Games - Игры | #VPN - ВПН и инструменты | #Video - Видео и редакторы | #Music - Музыка и плееры",
   "appRepositories": [
     {
@@ -138,6 +138,16 @@
       "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/8dfc866d0e2e892832a8fc1614900234.png?raw=true",
       "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/T-Bank_Start_v6.35.1/T-Start_6.35.1.ipa",
       "appDescription": "Недоступно в App Store"
+    },
+    {
+      "appType": "SELF_SIGN",
+      "appCateIndex": 0,
+      "appUpdateTime": "2025-05-16T14:40:00+0300",
+      "appName": "FotMob Pro",
+      "appVersion": "1201.0",
+      "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/ef48d8d7574f50aa7dab4e9f94b5528e.png?raw=true",
+      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/Fotmob_v1201.0/FotMob_1201.0.ipa",
+      "appDescription": "Футбольные результаты\n\nПремиум разблокирован"
     }
   ]
 }
