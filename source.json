@@ -128,6 +128,16 @@
       "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/751b5d885311c4ae40d0f86e7eb3e4c7.png?raw=true",
       "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/Sber_16.0.1/Online_16.0.1.ipa",
       "appDescription": "Недоступно в App Store"
+    },
+    {
+      "appType": "SELF_SIGN",
+      "appCateIndex": 0,
+      "appUpdateTime": "2025-05-16T12:49:00+0300",
+      "appName": "Т-Банк",
+      "appVersion": "6.35.1 | 180MB |",
+      "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/8dfc866d0e2e892832a8fc1614900234.png?raw=true",
+      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/T-Bank_Start_v6.35.1/T-Start_6.35.1.ipa",
+      "appDescription": "Недоступно в App Store"
     }
   ]
 }
