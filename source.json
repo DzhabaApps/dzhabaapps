@@ -118,6 +118,16 @@
       "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/a9f14e2c453db816dd45433ba5127b81.png?raw=true",
       "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/Alfa_bank_1.4.2/default.ipa",
       "appDescription": "Недоступно в App Store"
+    },
+    {
+      "appType": "SELF_SIGN",
+      "appCateIndex": 0,
+      "appUpdateTime": "2025-05-16T12:00:00+0300",
+      "appName": "Сбербанк Онлайн",
+      "appVersion": "16.0.1 | 244MB |",
+      "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/751b5d885311c4ae40d0f86e7eb3e4c7.png?raw=true",
+      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/Sber_16.0.1/Online_16.0.1.ipa",
+      "appDescription": "Недоступно в App Store"
     }
   ]
 }
