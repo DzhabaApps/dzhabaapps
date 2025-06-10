@@ -133,6 +133,16 @@
       "appType": "SELF_SIGN",
       "appCateIndex": 0,
       "appUpdateTime": "2025-06-10T17:00:00+0300",
+      "appName": "Alight Motion Premium",
+      "appVersion": "6.2.19 | 113MB",
+      "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/499D8F48-96E8-4385-B007-91A09056A0CC.png?raw=true",
+      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/alight_motion_6.2.19/Alight.Motion_6.2.19.ipa",
+      "appDescription": "В приложении активирована подписка Premium\n\nЧтобы активировать подписку войдите в аккаунт Google"
+    },
+    {
+      "appType": "SELF_SIGN",
+      "appCateIndex": 0,
+      "appUpdateTime": "2025-06-10T17:00:00+0300",
       "appName": "Picsart Премиум",
       "appVersion": "27.5.3 | 102.1MB",
       "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/59bffd9a0dcf839cd08c77fa81e81177.png?raw=true",
