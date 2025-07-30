@@ -62,11 +62,11 @@
     {
       "appType": "SELF_SIGN",
       "appCateIndex": 0,
-      "appUpdateTime": "2025-05-16T:13:00+0300",
+      "appUpdateTime": "2025-07-30T:11:00+0300",
       "appName": "YouTube Plus",
-      "appVersion": "20.18.5 | 122.2MB |",
+      "appVersion": "20.10.4 | 109MB |",
       "appImage": "https://github.com/DzhabaApps/dzhabaapps/blob/main/icons/1caa967e175755d81250880bccecdb22.png?raw=true",
-      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/Youtube_plus_2_v20.18.5/YouTube.Plus_20.18.5.ipa",
+      "appPackage": "https://github.com/DzhabaApps/dzhabaapps/releases/download/youtube_plus_20.10.4/YouTube.Plus_20.10.4.ipa",
       "appDescription": "Модификация YouTube\n\n✔️Работает в фоновом режиме\n✔️Пропуск рекламы\n✔️Скачивание видео\nИ многое другое..."
     },
     {
